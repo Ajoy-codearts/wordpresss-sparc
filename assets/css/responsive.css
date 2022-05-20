@@ -1,0 +1,304 @@
+@charset "utf-8";
+/* CSS Document */
+@media (min-width: 1024px) and (max-width: 1200px){
+	.header-top-contact-item {padding-right: 15px;}
+.custom-header-bottom .navbar-brand, .custom-header-bottom .navbar-header { margin: 0;}
+
+.what-we-offer-box {min-height: 300px;}
+
+/* ---------------------------- */
+/* Swagata end 25.03.2022        */
+/* ---------------------------- */
+	.custom-nav ul li {margin-left: 7px;}
+	
+	.custom-nav a img {height: 32px;}	
+	.carousel-item-txt h1 {font-size: 48px;}
+	.carousel-item-img img {height: 457px;}
+	.carousel-control-custom-btn {padding: 15px 18px;font-size: 16px;}
+	.custom-banner .carousel-control-prev .carousel-control-custom-btn {margin-left: 0px;}
+	.custom-banner .carousel-control-next .carousel-control-custom-btn {margin-right: 0;}
+	.carousel-item-txt a {width: 24%;font-size: 14px;padding: 12px 0px;}
+	.carousel-item-txt {top: 28%;}
+	.custom-pad {padding: 60px 0;}
+	.custom-heading span {font-size: 14px;padding: 7px 12px;display: inline-block;}
+	.custom-heading h3 {font-size: 40px;padding-top: 12px;}
+	.custom-sub-heading-1 h5 {font-size: 43px;line-height: 53px;top: -26px;}
+	.what-we-offer-box h3 {font-size: 30px;width: 100%;}
+	.au-image-1 img {width: 90%;height: 380px;object-fit: cover;object-position: 100% 16%;}
+	.au-image-2 img {height: 180px;}
+	.about-us-content-right {padding-block: 111px;padding-bottom: 0;}
+	.clientele-list li {margin: 0 16px;}
+	.clientele-list .number h4 {font-size: 40px;margin-bottom: 7px;line-height: 44px;}
+	.clientele-list .call-heading h5 {font-size: 15px;line-height: 25px;}
+	.clientele-list .clientele-address h6 {font-size: 12px;line-height: 18px;}
+	.au-text p {padding-right: 0px;font-size: 14px;}
+	.custom-btn {width: 25%;font-size: 13px;padding: 16px 0px;}
+	.what-we-offer .custom-heading {padding-bottom: 10px;}
+	.clientele .custom-heading {padding-bottom: 10px;}
+	.what-we-offer::after {width: 610px;height: 337px;top: 141px;}
+	.what-they-say .custom-heading h3 {line-height: 54px;margin-bottom: 9px;}
+	.custom-testimonials .testimunials-heading p {font-size: 15px;line-height: 28px;}
+	.custom-testimonials .owl-carousel .owl-item img {margin-bottom: 18px;}
+	.custom-testimonials .testimunials-heading h5 {font-size: 15px;margin-top: 0px;}
+	.custom-footer li:nth-child(2) {margin-bottom: 0px;}
+	.custom-footer li {text-align: center;}
+	.custom-footer .social-icon li {margin-top: 20px;margin-bottom: 20px;}
+	.footer-end {margin: 30px 0 0 0;}
+	.custom-footer .footer-address li:nth-child(2) {font-size:  24px}
+	.dp-abu-cus-sub-heading h5 {font-size: 77px;right: -87%;opacity: 0.12;}
+	.au-image-1::before {left: 17px;}
+}
+
+@media (min-width: 992px) and (max-width: 1024px) {
+	.header-top-contact-item {padding-right: 15px;}
+.custom-header-bottom .navbar-brand, .custom-header-bottom .navbar-header { margin: 0;}
+
+.what-we-offer-box {min-height: 300px;}
+
+/* ---------------------------- */
+/* Swagata end 25.03.2022        */
+/* ---------------------------- */
+	.custom-nav ul li {margin-left: 7px;}
+	
+	.custom-nav a img {height: 32px;}	
+	.carousel-item-txt h1 {font-size: 48px;}
+	.carousel-item-img img {height: 457px;}
+	.carousel-control-custom-btn {padding: 15px 18px;font-size: 16px;}
+	.custom-banner .carousel-control-prev .carousel-control-custom-btn {margin-left: 0px;}
+	.custom-banner .carousel-control-next .carousel-control-custom-btn {margin-right: 0;}
+	.carousel-item-txt a {width: 24%;font-size: 14px;padding: 12px 0px;}
+	.carousel-item-txt {top: 28%;}
+	.custom-pad {padding: 60px 0;}
+	.custom-heading span {font-size: 14px;padding: 7px 12px;display: inline-block;}
+	.custom-heading h3 {font-size: 40px;padding-top: 12px;}
+	.custom-sub-heading-1 h5 {font-size: 43px;line-height: 53px;top: -26px;}
+	.what-we-offer-box h3 {font-size: 30px;width: 100%;}
+	.au-image-1 img {width: 90%;height: 380px;object-fit: cover;object-position: 100% 16%;}
+	.au-image-2 img {height: 180px;}
+	.about-us-content-right {padding-block: 111px;padding-bottom: 0;}
+	.clientele-list li {margin: 0 16px;}
+	.clientele-list .number h4 {font-size: 40px;margin-bottom: 7px;line-height: 44px;}
+	.clientele-list .call-heading h5 {font-size: 15px;line-height: 25px;}
+	.clientele-list .clientele-address h6 {font-size: 12px;line-height: 18px;}
+	.au-text p {padding-right: 0px;font-size: 14px;}
+	.custom-btn {width: 25%;font-size: 13px;padding: 16px 0px;}
+	.what-we-offer .custom-heading {padding-bottom: 10px;}
+	.clientele .custom-heading {padding-bottom: 10px;}
+	.what-we-offer::after {width: 610px;height: 337px;top: 141px;}
+	.what-they-say .custom-heading h3 {line-height: 54px;margin-bottom: 9px;}
+	.custom-testimonials .testimunials-heading p {font-size: 15px;line-height: 28px;}
+	.custom-testimonials .owl-carousel .owl-item img {margin-bottom: 18px;}
+	.custom-testimonials .testimunials-heading h5 {font-size: 15px;margin-top: 0px;}
+	.custom-footer li:nth-child(2) {margin-bottom: 0px;}
+	.custom-footer li {text-align: center;}
+	.custom-footer .social-icon li {margin-top: 20px;margin-bottom: 20px;}
+	.footer-end {margin: 30px 0 0 0;}
+	.custom-footer .footer-address li:nth-child(2) {font-size:  24px}
+	.dp-abu-cus-sub-heading h5 {font-size: 77px;right: -87%;opacity: 0.12;}
+
+	.inner-services-block .inner-services-content h3 {font-size: 18px;}
+	.si-consult-widget {padding-top: 25px;}
+	.si-consult-widget .si-icon img {width: 88%;}
+}
+
+/* 991 px & down (check 768px) */
+@media only screen and (max-width: 991.99px) {    
+   .navbar-toggle { float: left;margin: 0; height: 45px; width: 45px; border-radius: 0;z-index: 1}
+.navbar-toggle .icon-bar { width: 24px; background: #fff;transition: .5s ease;}
+.navbar-toggle.collapsed .icon-bar:nth-child(2){transform: rotate(0)translateY(0)translateX(0);}
+.navbar-toggle.collapsed .icon-bar:nth-child(3){opacity:1}
+.navbar-toggle.collapsed .icon-bar:nth-child(4){transform:rotate(0)translateY(0)translateX(0);}
+.navbar-toggle .icon-bar:nth-child(2){transform: rotate(-45deg)translateY(5px)translateX(-5px);}
+.navbar-toggle .icon-bar:nth-child(3){opacity: 0}
+.navbar-toggle .icon-bar:nth-child(4){transform:rotate(45deg)translateY(-4px)translateX(-3px);}
+.navbar-header {display: block;}
+
+/* ---------------------------- */
+/* Swagata start 25.03.2022      */
+/* ---------------------------- */
+
+.header-top-contact-item {padding-right: 15px;}
+.custom-header-bottom .navbar-brand, .custom-header-bottom .navbar-header { margin: 0;}
+
+.what-we-offer-box {min-height: 300px;}
+
+/* ---------------------------- */
+/* Swagata end 25.03.2022        */
+/* ---------------------------- */
+	
+	
+	.custom-nav a img {height: 32px;}
+	.custom-header-bottom ul.navbar-nav {background-color: #fe8502;}	
+	.custom-nav ul li {margin-left: 0;width: 100%;padding: 0 20px;}
+	.custom-nav ul li a {border-bottom: 1px dashed #ffc07b;}
+	.carousel-item-txt h1 {font-size: 48px;}
+	.carousel-item-img img {height: 457px;}
+	.carousel-control-custom-btn {padding: 15px 18px;font-size: 16px;}
+	.custom-banner .carousel-control-prev .carousel-control-custom-btn {margin-left: 0px;}
+	.custom-banner .carousel-control-next .carousel-control-custom-btn {margin-right: 0;}
+	.carousel-item-txt a {width: 24%;font-size: 14px;padding: 12px 0px;}
+	.carousel-item-txt {top: 28%;}
+	.custom-pad {padding: 60px 0;}
+	.custom-heading span {font-size: 14px;padding: 7px 12px;display: inline-block;}
+	.custom-heading h3 {font-size: 40px;padding-top: 12px;}
+	.custom-sub-heading-1 h5 {font-size: 43px;line-height: 53px;top: -26px;}
+	.what-we-offer-box h3 {font-size: 30px;width: 100%;}
+	.au-image-1 img {width: 90%;height: 380px;object-fit: cover;object-position: 100% 16%;}
+	.au-image-2 img {height: 180px;}
+	.about-us-content-right {padding-block: 111px;padding-bottom: 0;}
+	.clientele-list li {margin: 0 16px;}
+	.clientele-list .number h4 {font-size: 40px;margin-bottom: 7px;line-height: 44px;}
+	.clientele-list .call-heading h5 {font-size: 15px;line-height: 25px;}
+	.clientele-list .clientele-address h6 {font-size: 12px;line-height: 18px;}
+	.au-text p {padding-right: 0px;font-size: 14px;}
+	.custom-btn {width: 25%;font-size: 13px;padding: 16px 0px;}
+	.what-we-offer .custom-heading {padding-bottom: 10px;}
+	.clientele .custom-heading {padding-bottom: 10px;}
+	.what-we-offer::after {width: 610px;height: 337px;top: 141px;}
+	.what-they-say .custom-heading h3 {line-height: 54px;margin-bottom: 9px;}
+	.custom-testimonials .testimunials-heading p {font-size: 15px;line-height: 28px;}
+	.custom-testimonials .owl-carousel .owl-item img {margin-bottom: 18px;}
+	.custom-testimonials .testimunials-heading h5 {font-size: 15px;margin-top: 0px;}
+	.custom-footer li:nth-child(2) {margin-bottom: 0px;}
+	.custom-footer li {text-align: center;}
+	.custom-footer .social-icon li {margin-top: 20px;margin-bottom: 20px;}
+	.footer-end {margin: 30px 0 0 0;}
+	
+	/* ---------------------------- */
+/* Swagata start 26.03.2022      */
+/* ---------------------------- */
+
+.custom-innr-banner {padding: 180px 0 80px;}
+.custom-inner-banner-content h3 {font-size: 45px;}
+.custom-breadcam ul {padding: 6px 6px;}
+.custom-breadcam ul li {font-size: 14px;}
+
+.inner-abt-img{text-align: center;padding-left: 0;margin-bottom: 70px;}
+.inner-abt-img img {
+   height: 420px;
+   object-fit: cover;
+}
+.si-image img {height: 300px;}
+.inner-abt-img::after {left: -40px;bottom: -35px;width: 130px;height: 267px;}
+.si-consult-widget {padding-top: 30px;}
+.si-consult-widget .si-icon img {width: 88%;}
+
+.custom-con-info-dp {padding: 15px 15px;text-align: center;}
+.contact-info-dp h6 {font-size: 15px;}
+.contact-info-dp h5 {font-size: 18px;}
+	.contact-info-dp span {height: 56px;width: 56px;font-size: 22px;line-height: 54px;margin-bottom: 14px;}
+
+/* ---------------------------- */
+/* Swagata end 26.03.2022        */
+/* ---------------------------- */
+
+}
+
+/* 767px & down */
+@media (max-width: 767px){
+.header-top-contact-item a p {display: none;}
+	.header-top-contact-item {padding-right: 6px;}
+	.carousel-item-txt h1 {font-size: 34px;}
+	.carousel-item-txt a {width: 36%;}
+	.custom-heading h3 {font-size: 30px;}
+	.what-we-offer .custom-heading {padding-bottom: 20px;}
+	.what-we-offer-box {min-height: 200px;}
+	.what-we-offer::after {width: 382px;height: 237px;top: 90px;}
+	.custom-pad {padding: 40px 0;}
+	.clientele-list li {margin: 0 16px 40px;}
+	.clientele-list li:last-child{margin-bottom: 0;}
+	.au-list-left {flex: 0 0 100%;}
+	.custom-btn {width: 40%;}
+
+/* ---------------------------- */
+/* Swagata start 25.03.2022      */
+/* ---------------------------- */
+
+.custom-inner-banner-content h3 {font-size: 33px;}
+ .custom-si-inner .si-content h2, .custom-si-inner .si-content .service-benefit h3 {font-size: 28px;}
+ .inner-contact-info .row .col-lg-4:not(:last-child) .custom-con-info-dp {margin-bottom: 25px;}
+ .custom-con-info-dp {padding: 30px 15px;}
+
+/* ---------------------------- */
+/* Swagata end 25.03.2022        */
+/* ---------------------------- */
+	
+	.au-list-right {padding-left: 0;margin-top: 20px;}
+	.au-lists {flex-direction: column;}
+	
+	
+}
+@media only screen and (max-width: 480px) {	
+.clientele-list li {width: 100%;margin: 0;margin-bottom: 10px;}
+	.clientele-list .call-heading h5 {margin-bottom: 5px;}
+	.clientele-list li {margin-bottom: 20px;}
+	.clientele-list li:last-child{margin-bottom: 0;}
+	.clientele-list ul {margin-bottom: 0;}
+	
+	/* ---------------------------- */
+/* Swagata start 25.03.2022      */
+/* ---------------------------- */
+
+.si-image img {height: 260px;}
+.custom-si-inner .si-content h2, .custom-si-inner .si-content .service-benefit h3 {font-size: 28px;margin-bottom: 10px;}
+.si-content .service-benefit .icon-box {
+   position: relative;
+   display: inline-block;
+   flex-wrap: wrap;
+   align-items: center;
+   margin-bottom: 32px;
+   width: 49%;
+ }
+ .si-consult-widget .si-icon img {width: 88%;}
+.si-consult-widget {padding-top: 25px;}
+.si-list li a {padding: 21.5px 25px;font-size: 16px;}
+.si-consult-widget .si-icon {padding-bottom: 25px;}
+.si-consult-widget .si-text {margin-bottom: 25px;}
+.si-consult-widget .si-phone {padding: 20px 0;}
+.si-consult-widget .si-text {font-size: 25px;line-height: 27px;}
+/* ---------------------------- */
+/* Swagata end 25.03.2022        */
+/* ---------------------------- */
+	
+	#thumbs .owl-stage {min-width: 310px;}
+
+}
+
+@media  (max-width: 390px) {
+.carousel-control-custom-btn {padding: 10px 12px;font-size: 14px;}
+	.carousel-item-txt a {width: 50%;}
+	.carousel-item-img img {height: 300px;}
+	.what-we-offer::after {display: none;}
+	.au-image-1::before {left: 17px;}
+	.au-image-2 img {height: 140px;}
+	.about-us-content-right {padding-block: 70px;}
+	.about-us-content-right {padding-block: unset;padding-top: 70px;}
+	.custom-heading h3 {font-size: 22px;}
+	#thumbs .owl-stage {min-width: 310px;}
+
+/* ---------------------------- */
+/* Swagata start 25.03.2022      */
+/* ---------------------------- */
+.si-inner-box {margin-bottom: 15px;}
+.custom-si-inner .si-content h2, .custom-si-inner .si-content .service-benefit h3 {font-size: 22px;margin-bottom: 10px;}
+
+.si-consult-widget .si-text {font-size: 22px;line-height: 27px;}
+.si-consult-widget .si-phone {font-size: 25px;}
+
+
+
+/* ---------------------------- */
+/* Swagata end 25.03.2022        */
+/* ---------------------------- */
+   
+}
+
+@media  (max-width: 360px) {
+	.carousel-item-txt h1 {font-size: 28px;}
+	.carousel-item-txt a {font-size: 13px;}
+	.carousel-item-txt a {font-size: 13px;}
+	.what-we-offer-box h3 {font-size: 18px;width: 100%;}
+	.custom-footer li {font-size: 12px;line-height: 22px;margin-right: 0;margin-bottom: 5px;}
+	.custom-footer .footer-text p {font-size: 12px;line-height: 22px;padding: 6px 0%;}
+	.footer-end p {font-size: 12px;line-height: 20px;padding: 10px 0;}
+}
